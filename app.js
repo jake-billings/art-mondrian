@@ -51,7 +51,8 @@ function drawArt() {
     var border = backgroundColorScheme[Math.floor(Math.random()*backgroundColorScheme.length)];
 
     //Pick a random number of rectangles to draw and draw them
-    for (var i = 0; i < (Math.random() * 1000); i++) {
+    var count = Math.random() * 100;
+    for (var i = 0; i < count; i++) {
 
         drawRectWithBorder(
             Math.random() * width * 2 - width,
