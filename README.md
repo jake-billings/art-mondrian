@@ -13,3 +13,7 @@ One day, I was late for the bus to School of Mines before a meeting for the proj
 ### Manual Art Creation by Piet Mondrian ###
 ![Piet_mondrian](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tableau_I%2C_by_Piet_Mondriaan.jpg/1280px-Tableau_I%2C_by_Piet_Mondriaan.jpg)
 
+
+
+## Other Projects ##
+Checkout my other projects at [https://jakebillings.com](https://jakebillings.com) or contact me via [LinkedIn](https://www.linkedin.com/in/jake-billings/).
